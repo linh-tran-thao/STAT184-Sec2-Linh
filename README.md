@@ -8,6 +8,6 @@ Using R and the ggplot2 package, we analyzed the relationship between carat size
 Diamond prices generally increase with carat size, with trends varying across cut qualities. Higher-quality cuts like Premium and Ideal showed smoother price trends, while Fair cuts exhibited more variability.
  ![](image.png)
  
-# ## Contact
+# Contact
 If you have any questions, feel free to contact me at:
 - Email: ltt5089@.edu
