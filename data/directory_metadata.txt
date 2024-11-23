@@ -1,0 +1,7 @@
+Metadata for the Data Directory:
+--------------------------------
+This directory contains the data files necessary for the STAT184 project. It is used to store:
+- 1 CSV file: diamonds.csv, containing information about diamond pricing and attributes.
+- Purpose: To provide data for analysis in the STAT184 assignments.
+
+Note: Data files in this directory are ignored by GitHub using the .gitignore file to avoid uploading large files.
